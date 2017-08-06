@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+
+# debug logs
+npm-debug.log
+
+# editor files
+*.launch
+
+
+# System Files
+.DS_Store
+Thumbs.db
